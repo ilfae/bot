@@ -1,10 +1,14 @@
 const express = require('express');
-const fs = require('fs');
-const path = require('path');
-
 const app = express();
 const keys = require('./keys.json');
 let currentIndex = 0;
+
+// Middleware для CORS
+app.use((req, res, next) => {
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'GET');
+  next();
+});
 
 // Middleware для скрытия содержимого
 app.use((req, res, next) => {
@@ -15,11 +19,9 @@ app.use((req, res, next) => {
 
 app.get('/', (req, res) => {
   const key = keys[currentIndex];
-  
-  // Ротация ключей
   currentIndex = (currentIndex + 1) % keys.length;
   
-  // Возвращаем ключ в "скрытом" формате
+  // Возвращаем ключ в скрытом формате
   res.send(`<!-- ${key} -->`);
 });
 

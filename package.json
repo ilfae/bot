@@ -1,5 +1,5 @@
 {
-  "name": "weather-api-rotator",
+  "name": "api-rotator",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {

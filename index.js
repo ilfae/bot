@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const keys = require('./keys.json');
+const keys = require('./wof.json');
 let currentIndex = 0;
 
 // Middleware для скрытия содержимого

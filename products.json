@@ -3,19 +3,16 @@
     "male": [
       {
         "image": "https://example.com/product1.jpg",
-        "name": "Анорак Outdoor",
         "link": "https://example.com/product1"
       },
       {
         "image": "https://example.com/product2.jpg",
-        "name": "Ветровка Trekking",
         "link": "https://example.com/product2"
       }
     ],
     "female": [
       {
         "image": "https://example.com/product3.jpg",
-        "name": "Женский анорак",
         "link": "https://example.com/product3"
       }
     ]
@@ -24,28 +21,24 @@
     "male": [
       {
         "image": "https://example.com/product4.jpg",
-        "name": "Классический блейзер",
         "link": "https://example.com/product4"
       }
     ],
     "female": [
       {
         "image": "https://example.com/product5.jpg",
-        "name": "Блейзер офисный",
         "link": "https://example.com/product5"
       }
     ]
   },
-   "Blouse.png": {
+  "Blouse.png": {
     "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Элегантная блузка",
         "link": "https://example.com/blouse1"
       },
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Блузка с кружевом",
         "link": "https://example.com/blouse2"
       }
     ]
@@ -54,19 +47,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Мужской бомбер",
         "link": "https://example.com/bomber1"
       },
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Бомбер на молнии",
         "link": "https://example.com/bomber2"
       }
     ],
     "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Женский бомбер",
         "link": "https://example.com/bomber3"
       }
     ]
@@ -75,12 +65,10 @@
     "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Топ бралетт",
         "link": "https://example.com/bralette1"
       },
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Топик вязанный",
         "link": "https://example.com/bralette2"
       }
     ]
@@ -89,19 +77,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Мужской кардиган",
         "link": "https://example.com/cardigan1"
       },
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Вязаный кардиган",
         "link": "https://example.com/cardigan2"
       }
     ],
     "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Женский кардиган",
         "link": "https://example.com/cardigan3"
       }
     ]
@@ -110,19 +95,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Мужское пальто",
         "link": "https://example.com/coat1"
       },
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Пальто шерстяное",
         "link": "https://example.com/coat2"
       }
     ],
     "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Женское пальто",
         "link": "https://example.com/coat3"
       }
     ]
@@ -131,19 +113,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Мужская джинсовка",
         "link": "https://example.com/denimjacket1"
       },
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Джинсовая куртка",
         "link": "https://example.com/denimjacket2"
       }
     ],
     "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Женская джинсовка",
         "link": "https://example.com/denimjacket3"
       }
     ]
@@ -152,19 +131,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Мужской пуховик",
         "link": "https://example.com/downjacket1"
       },
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Пуховик зимний",
         "link": "https://example.com/downjacket2"
       }
     ],
     "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Женский пуховик",
         "link": "https://example.com/downjacket3"
       }
     ]
@@ -173,19 +149,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Мужской пуховый жилет",
         "link": "https://example.com/downvest1"
       },
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Жилет пуховый",
         "link": "https://example.com/downvest2"
       }
     ],
     "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Женский пуховый жилет",
         "link": "https://example.com/downvest3"
       }
     ]
@@ -194,12 +167,10 @@
     "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Вечернее платье",
         "link": "https://example.com/eveningdress1"
       },
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Платье на выход",
         "link": "https://example.com/eveningdress2"
       }
     ]
@@ -208,12 +179,10 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Мужская куртка Харрингтон",
         "link": "https://example.com/harrington1"
       },
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Куртка Harrington",
         "link": "https://example.com/harrington2"
       }
     ]
@@ -222,19 +191,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Мужская куртка с капюшоном",
         "link": "https://example.com/hoodedjacket1"
       },
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Куртка с капюшоном",
         "link": "https://example.com/hoodedjacket2"
       }
     ],
     "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Женская куртка с капюшоном",
         "link": "https://example.com/hoodedjacket3"
       }
     ]
@@ -243,19 +209,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Мужской худи",
         "link": "https://example.com/hoodie1"
       },
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Худи утепленный",
         "link": "https://example.com/hoodie2"
       }
     ],
     "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Женский худи",
         "link": "https://example.com/hoodie3"
       }
     ]
@@ -264,19 +227,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Мужской вязаный жилет",
         "link": "https://example.com/knittedvest1"
       },
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Жилет вязаный",
         "link": "https://example.com/knittedvest2"
       }
     ],
     "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Стильный жилет",
         "link": "https://example.com/knittedvest3"
       }
     ]
@@ -285,19 +245,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Мужская кожаная куртка",
         "link": "https://example.com/leatherjacket1"
       },
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Куртка кожаная",
         "link": "https://example.com/leatherjacket2"
       }
     ],
     "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Женская кожаная куртка",
         "link": "https://example.com/leatherjacket3"
       }
     ]
@@ -306,12 +263,10 @@
     "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Легкое летнее платье",
         "link": "https://example.com/lightdress1"
       },
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Платье пляжное",
         "link": "https://example.com/lightdress2"
       }
     ]
@@ -320,19 +275,16 @@
     "male": [
       {
         "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/g/24/2d025f54-af6c-43d8-a785-2ee25651b2be.jpg",
-        "name": "Мужская летняя льняная рубашка",
         "link": "https://fas.st/mjvVGx"
       },
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Рубашка льняная",
         "link": "https://example.com/linenshirt2"
       }
     ],
     "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Женская льняная рубашка",
         "link": "https://example.com/linenshirt3"
       }
     ]
@@ -341,19 +293,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Мужская свободная рубашка",
         "link": "https://example.com/looseshirt1"
       },
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Рубашка свободная",
         "link": "https://example.com/looseshirt2"
       }
     ],
      "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Рубашка свободная женская",
         "link": "https://example.com/looseshirt4"
       }
     ]
@@ -362,7 +311,6 @@
     "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Куртка без плечиков",
         "link": "https://example.com/offtheshouldertop3"
       }
     ]
@@ -371,19 +319,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Oversized T мужская",
         "link": "https://example.com/oversized_tm"
       },
        {
         "image": "https://via.placeholder.com/150",
-        "name": "T мужская sport",
         "link": "https://example.com/oversized_tm"
       }
     ],
       "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Oversized T женская",
         "link": "https://example.com/oversized_tz"
       }
     ]
@@ -392,19 +337,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Парка мужская",
         "link": "https://example.com/p_m"
       },
        {
         "image": "https://via.placeholder.com/150",
-        "name": "Куртка мужская zim",
         "link": "https://example.com/p_mas"
       }
     ],
       "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Парка женская",
         "link": "https://example.com/pa_f"
       }
     ]
@@ -413,19 +355,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Бушлат мужской",
         "link": "https://example.com/p_bushm"
       },
        {
         "image": "https://via.placeholder.com/150",
-        "name": "zim бушлат м",
         "link": "https://example.com/p_gretm"
       }
     ],
       "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Бушлат женская",
         "link": "https://example.com/p_bushw"
       }
     ]
@@ -434,12 +373,10 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Polo мужской",
         "link": "https://example.com/polo_m"
       },
        {
         "image": "https://via.placeholder.com/150",
-        "name": "Polo  sport",
         "link": "https://example.com/popl_m"
       }
     ]
@@ -448,19 +385,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Quilted y M",
         "link": "https://example.com/p_Q_m"
       },
        {
         "image": "https://via.placeholder.com/150",
-        "name": "Q зима M",
         "link": "https://example.com/p_Q_zim_m"
       }
     ],
        "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Quilted  woman",
         "link": "https://example.com/p_Qw"
       }
     ]
@@ -469,19 +403,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Raincoat male ",
         "link": "https://example.com/rain_m"
       },
        {
         "image": "https://via.placeholder.com/150",
-        "name": "Куртка r спорт",
         "link": "https://example.com/raint_sport_m"
       }
     ],
         "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Raincoat wom",
         "link": "https://example.com/f_rai"
       }
     ]
@@ -490,19 +421,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "угги m",
         "link": "https://example.com/ufm"
       },
        {
         "image": "https://via.placeholder.com/150",
-        "name": "2 угги m",
         "link": "https://example.com/uhgj"
       }
     ],
          "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "угги ш",
         "link": "https://example.com/uggiwom"
       }
     ]
@@ -511,12 +439,10 @@
     "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Платье рубашка F",
         "link": "https://example.com/dress_r_g"
       },
            {
         "image": "https://via.placeholder.com/150",
-        "name": "Платье рубашка ЛЕТО  F",
         "link": "https://example.com/l_dr"
       }
     ]
@@ -525,19 +451,16 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Рубашка m",
         "link": "https://example.com/r_male"
       },
                {
         "image": "https://via.placeholder.com/150",
-        "name": "С sport",
         "link": "https://example.com/sp_po"
       }
     ],
      "female": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Платье рубашка F",
         "link": "https://example.com/w_l_pl"
       }
     ]
@@ -546,7 +469,6 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Рубашка l_m",
         "link": "https://example.com/r_LmALE"
       }
     ]
@@ -555,12 +477,10 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Рубашка kor_m",
         "link": "https://example.com/r_k_male"
       },
            {
         "image": "https://via.placeholder.com/150",
-        "name": "Пляжная ",
         "link": "https://example.com/pliajny"
       }
     ]
@@ -569,12 +489,10 @@
     "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Горнолыжный к",
         "link": "https://example.com/p_gor_m"
       },
                {
         "image": "https://via.placeholder.com/150",
-        "name": "Спорт  m",
         "link": "https://example.com/s_gorm"
       }
     ]
@@ -583,7 +501,6 @@
  "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "К Зимняя",
         "link": "https://example.com/kj_i"
       }
     ]
@@ -592,7 +509,6 @@
      "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "кофта Т",
         "link": "https://example.com/trikotajm"
       }
     ]
@@ -601,7 +517,6 @@
      "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Свитерок",
         "link": "https://example.com/sviterokm"
       }
     ]
@@ -610,7 +525,6 @@
      "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Т ",
         "link": "https://example.com/t_male"
       }
     ]
@@ -619,7 +533,6 @@
  "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Т зимняя",
         "link": "https://example.com/tum_zim"
       }
     ]
@@ -628,7 +541,6 @@
   "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Т зимняя",
         "link": "https://example.com/tum_zim_2"
       }
     ]
@@ -637,7 +549,6 @@
      "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Водолазка ",
         "link": "https://example.com/vololaska_Male"
       }
     ]
@@ -646,7 +557,6 @@
       "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Майка ",
         "link": "https://example.com/maika_m_zim"
       }
     ]
@@ -655,7 +565,6 @@
       "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "В м",
         "link": "https://example.com/re_ver"
       }
     ]
@@ -664,7 +573,6 @@
       "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Ветро",
         "link": "https://example.com/tetro2_m"
       }
     ]
@@ -673,7 +581,6 @@
         "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "К Зимняя",
         "link": "https://example.com/kji_m_zkm"
       }
     ]
@@ -682,7 +589,6 @@
   "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Майка жаркая",
         "link": "https://example.com/mai_jare"
       }
     ]
@@ -691,7 +597,6 @@
       "male": [
       {
         "image": "https://via.placeholder.com/150",
-        "name": "Кофта от Солнца",
         "link": "https://example.com/kaft_solar_good"
       }
     ]

@@ -3,13 +3,23 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -17,17 +27,32 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -35,11 +60,21 @@
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -47,17 +82,32 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -65,11 +115,21 @@
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -77,25 +137,50 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -103,17 +188,32 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -121,17 +221,32 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -139,17 +254,32 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -157,17 +287,32 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -175,11 +320,21 @@
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -187,11 +342,21 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -199,17 +364,32 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -217,17 +397,32 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -235,17 +430,32 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -253,17 +463,32 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -271,11 +496,21 @@
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -283,17 +518,32 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -301,17 +551,32 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -319,7 +584,12 @@
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -327,17 +597,32 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -345,17 +630,32 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -363,17 +663,32 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -381,11 +696,21 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -393,53 +718,98 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
   "Raincoat.png": {
     "male": [
       {
-      "image": "Ссылка превью",
-       "link": "Ссылка товара"
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
   "Sheepskin_Coat.png": {
     "male": [
       {
-     "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
-      "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -447,29 +817,44 @@
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
   "Shirt.png": {
     "male": [
       {
-       "image": "Ссылка превью",
+        "image": "Ссылка превью",
         "link": "Ссылка товара"
       },
       {
-       "image": "Ссылка превью",
+        "image": "Ссылка превью",
         "link": "Ссылка товара"
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -477,19 +862,29 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
   "Short-sleeve_shirt.png": {
     "male": [
       {
-       "image": "Ссылка превью",
+        "image": "Ссылка превью",
         "link": "Ссылка товара"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -497,11 +892,21 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       },
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -509,15 +914,25 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
   "Striped_Track_Jacket.png": {
     "male": [
       {
-       "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -525,7 +940,12 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -533,7 +953,12 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -541,15 +966,25 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
   "Thick_Down_Jacket20.png": {
     "male": [
-      {       
+      {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -557,39 +992,64 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
   "Undershirt.png": {
     "male": [
       {
-       "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
   "Windbreaker.png": {
     "male": [
       {
-     "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
   "Windproof_Hooded_Jacket.png": {
     "male": [
       {
-     "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
   "Quilted_Jacket25.png": {
     "male": [
       {
-     "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -597,7 +1057,12 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   },
@@ -605,7 +1070,12 @@
     "male": [
       {
         "image": "Ссылка превью",
-        "link": "Ссылка товара"
+        "link": "Ссылка товара",
+        "name_en": "Product Name (English)",
+        "name_ru": "Название товара (Russian)",
+        "name_de": "Produktname (German)",
+        "name_ja": "製品名 (Japanese)",
+        "name_zh": "产品名称 (Chinese)"
       }
     ]
   }

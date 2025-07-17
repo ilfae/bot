@@ -550,19 +550,19 @@
   "Loose_Shirt.png": {
     "male": [
       {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
+        "image": "https://cdn.sportmaster.ru/upload/mdm/media_content/resize/81d/563_750_142d/144713190299.jpg",
+        "link": "https://www.sportmaster.ru/product/32598170299/",
         "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
+        "name_ru": "Рубашка мужская Northland",
         "name_de": "Produktname (German)",
         "name_ja": "製品名 (Japanese)",
         "name_zh": "产品名称 (Chinese)"
       },
       {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
+        "image": "https://cdn.sportmaster.ru/upload/mdm/media_content/resize/551/563_750_8e38/156894150299.jpg",
+        "link": "https://www.sportmaster.ru/product/33566590299/",
         "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
+        "name_ru": "Рубашка мужская Outventure",
         "name_de": "Produktname (German)",
         "name_ja": "製品名 (Japanese)",
         "name_zh": "产品名称 (Chinese)"
@@ -570,10 +570,10 @@
     ],
     "female": [
       {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
+        "image": "https://cdn.sportmaster.ru/upload/mdm/media_content/resize/19a/563_750_d2ea/153563790299.jpg",
+        "link": "https://www.sportmaster.ru/product/32596850299/",
         "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
+        "name_ru": "Рубашка женская Outventure",
         "name_de": "Produktname (German)",
         "name_ja": "製品名 (Japanese)",
         "name_zh": "产品名称 (Chinese)"

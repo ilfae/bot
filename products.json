@@ -2,109 +2,117 @@
   "Anorak.png": {
     "male": [
       {
-        "image": "https://example.com/product1.jpg",
-        "link": "https://example.com/product1"
-      },
-      {
-        "image": "https://example.com/product2.jpg",
-        "link": "https://example.com/product2"
+        "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/z/16/5e4d4b63-80e9-4ace-b8e7-514eac900684.jpg",
+        "link": "https://fas.st/IDPD6o"
       }
     ],
     "female": [
       {
-        "image": "https://example.com/product3.jpg",
-        "link": "https://example.com/product3"
+        "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/z/16/5e4d4b63-80e9-4ace-b8e7-514eac900684.jpg",
+        "link": "https://fas.st/IDPD6o"
       }
     ]
   },
   "Blazer.png": {
     "male": [
       {
-        "image": "https://example.com/product4.jpg",
-        "link": "https://example.com/product4"
+        "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/ys/h/14/a8841b95-75cc-445a-a10f-ec34beb5c7db.jpg",
+        "link": "https://fas.st/ACbZp"
       }
     ],
     "female": [
       {
-        "image": "https://example.com/product5.jpg",
-        "link": "https://example.com/product5"
+        "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/ys/l/03/cc28295e-c7b8-43ee-ae84-34f35fe4b530.jpg",
+        "link": "https://fas.st/KFb-_"
+      },
+      {
+        "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/n/05/2a6ee497-0dd0-4ef4-bcc9-7c3436cf641b.jpg",
+        "link": "https://fas.st/oJzfu"
       }
     ]
   },
   "Blouse.png": {
     "female": [
       {
-        "image": "https://via.placeholder.com/150",
-        "link": "https://example.com/blouse1"
+        "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/ys/l/12/7abce160-19df-4d63-a81f-c45241a7b6e4.jpg",
+        "link": "https://fas.st/gjkBH5"
       },
       {
-        "image": "https://via.placeholder.com/150",
-        "link": "https://example.com/blouse2"
+        "image": "https://www.dhresource.com/webp/m/0x0/f2/albu/g22/M01/50/48/rBVaE2JOePSAQdctAAQ7EWqK1Qk213.jpg",
+        "link": "https://fas.st/Lh4kFj"
       }
     ]
   },
   "Bomber_Jacket.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
-        "link": "https://example.com/bomber1"
+        "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/z/07/96a2607f-4a4b-4a06-86cf-56127f08dafa.jpg",
+        "link": "https://fas.st/Kv8L_Y"
       },
       {
-        "image": "https://via.placeholder.com/150",
-        "link": "https://example.com/bomber2"
+        "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/z/31/eb6a3dee-e6df-4a2e-a22d-2272d4248631.jpg",
+        "link": "https://fas.st/lf8n0s"
       }
     ],
     "female": [
       {
-        "image": "https://via.placeholder.com/150",
-        "link": "https://example.com/bomber3"
+        "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/z/07/96a2607f-4a4b-4a06-86cf-56127f08dafa.jpg",
+        "link": "https://fas.st/Kv8L_Y"
       }
     ]
   },
   "Bralette_Top.png": {
     "female": [
       {
-        "image": "https://via.placeholder.com/150",
-        "link": "https://example.com/bralette1"
+        "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/ys/h/12/0d12ceb2-edac-48f1-893b-d4a73bae1c12.jpg",
+        "link": "https://fas.st/QW3mUM"
       },
       {
-        "image": "https://via.placeholder.com/150",
-        "link": "https://example.com/bralette2"
+        "image": "https://www.dhresource.com/webp/m/0x0/f2/albu/g20/M01/3A/73/rBVaqWC4f_SAfVurAAKDk-OTQKk996.jpg",
+        "link": "https://fas.st/3WyJc7"
       }
     ]
   },
   "Cardigan.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
-        "link": "https://example.com/cardigan1"
+        "image": "https://www.dhresource.com/webp/m/0x0/f2/albu/g17/M01/01/09/rBVa4l_QokKAMYOpAAHG6MkeHQ4095.jpg",
+        "link": "https://fas.st/Yhu3e"
       },
       {
-        "image": "https://via.placeholder.com/150",
-        "link": "https://example.com/cardigan2"
+        "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/km/l/02/173b2449-3d63-48ba-a63c-a8a7fddba2ec.jpg",
+        "link": "https://fas.st/1AULq"
       }
     ],
     "female": [
       {
-        "image": "https://via.placeholder.com/150",
-        "link": "https://example.com/cardigan3"
+        "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/s/28/c744f19b-f944-4650-aa62-55d862d5ff3c.jpg",
+        "link": "https://fas.st/5wrFR"
+      },
+      {
+        "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/o/14/8f937f86-5dbc-4e3f-8759-f5d7939683d7.jpg",
+        "link": "https://fas.st/mWKe4"
+      },
+      {
+        "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/j/13/6805fe01-5165-456b-836d-56fe20027c79.jpg",
+        "link": "https://fas.st/Qq06q3"
       }
     ]
   },
   "Coat.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
-        "link": "https://example.com/coat1"
+        "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/z/23/9fd936b6-6862-4302-bed3-446746c26057.jpg",
+        "link": "https://fas.st/0SsXMX"
       },
       {
-        "image": "https://via.placeholder.com/150",
-        "link": "https://example.com/coat2"
+        "image": "https://www.dhresource.com/webp/m/0x0/f2/albu/g4/M01/68/E1/rBVaEFmw8IKAYvVqAAJinpzQn9w706.jpg",
+        "link": "https://fas.st/9xJjIE"
       }
     ],
     "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/coat3"
       }
     ]
@@ -112,17 +120,17 @@
   "Denim_Jacket.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/denimjacket1"
       },
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/denimjacket2"
       }
     ],
     "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/denimjacket3"
       }
     ]
@@ -130,17 +138,17 @@
   "Down_Jacket.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/downjacket1"
       },
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/downjacket2"
       }
     ],
     "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/downjacket3"
       }
     ]
@@ -148,17 +156,17 @@
   "Down_Vest.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/downvest1"
       },
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/downvest2"
       }
     ],
     "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/downvest3"
       }
     ]
@@ -166,11 +174,11 @@
   "Evening_Dress.png": {
     "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/eveningdress1"
       },
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/eveningdress2"
       }
     ]
@@ -178,11 +186,11 @@
   "Harrington.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/harrington1"
       },
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/harrington2"
       }
     ]
@@ -190,17 +198,17 @@
   "Hooded_Jacket.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/hoodedjacket1"
       },
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/hoodedjacket2"
       }
     ],
     "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/hoodedjacket3"
       }
     ]
@@ -208,17 +216,17 @@
   "Hoodie.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/hoodie1"
       },
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/hoodie2"
       }
     ],
     "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/hoodie3"
       }
     ]
@@ -226,17 +234,17 @@
   "Knitted_Vest.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/knittedvest1"
       },
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/knittedvest2"
       }
     ],
     "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/knittedvest3"
       }
     ]
@@ -244,17 +252,17 @@
   "Leather_Jacket.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/leatherjacket1"
       },
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/leatherjacket2"
       }
     ],
     "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/leatherjacket3"
       }
     ]
@@ -262,11 +270,11 @@
   "Light_Dress.png": {
     "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/lightdress1"
       },
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/lightdress2"
       }
     ]
@@ -278,13 +286,13 @@
         "link": "https://fas.st/mjvVGx"
       },
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/linenshirt2"
       }
     ],
     "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/linenshirt3"
       }
     ]
@@ -292,17 +300,17 @@
   "Loose_Shirt.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/looseshirt1"
       },
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/looseshirt2"
       }
     ],
-     "female": [
+    "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/looseshirt4"
       }
     ]
@@ -310,61 +318,61 @@
   "Off-the-Shoulder_Top.png": {
     "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/offtheshouldertop3"
       }
     ]
   },
- "Oversized_T-shirt.png": {
+  "Oversized_T-shirt.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/oversized_tm"
       },
-       {
-        "image": "https://via.placeholder.com/150",
+      {
+        "image": "Вставьте картинку",
         "link": "https://example.com/oversized_tm"
       }
     ],
-      "female": [
+    "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/oversized_tz"
       }
     ]
   },
- "Parka.png": {
+  "Parka.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/p_m"
       },
-       {
-        "image": "https://via.placeholder.com/150",
+      {
+        "image": "Вставьте картинку",
         "link": "https://example.com/p_mas"
       }
     ],
-      "female": [
+    "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/pa_f"
       }
     ]
   },
-   "Pea_Coat.png": {
+  "Pea_Coat.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/p_bushm"
       },
-       {
-        "image": "https://via.placeholder.com/150",
+      {
+        "image": "Вставьте картинку",
         "link": "https://example.com/p_gretm"
       }
     ],
-      "female": [
+    "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/p_bushw"
       }
     ]
@@ -372,95 +380,95 @@
   "Polo_shirt.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/polo_m"
       },
-       {
-        "image": "https://via.placeholder.com/150",
+      {
+        "image": "Вставьте картинку",
         "link": "https://example.com/popl_m"
       }
     ]
   },
-   "Quilted_Jacket.png": {
+  "Quilted_Jacket.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/p_Q_m"
       },
-       {
-        "image": "https://via.placeholder.com/150",
+      {
+        "image": "Вставьте картинку",
         "link": "https://example.com/p_Q_zim_m"
       }
     ],
-       "female": [
+    "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/p_Qw"
       }
     ]
   },
- "Raincoat.png": {
+  "Raincoat.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/rain_m"
       },
-       {
-        "image": "https://via.placeholder.com/150",
+      {
+        "image": "Вставьте картинку",
         "link": "https://example.com/raint_sport_m"
       }
     ],
-        "female": [
+    "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/f_rai"
       }
     ]
   },
- "Sheepskin_Coat.png": {
+  "Sheepskin_Coat.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/ufm"
       },
-       {
-        "image": "https://via.placeholder.com/150",
+      {
+        "image": "Вставьте картинку",
         "link": "https://example.com/uhgj"
       }
     ],
-         "female": [
+    "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/uggiwom"
       }
     ]
   },
- "Shirt_Dress.png": {
+  "Shirt_Dress.png": {
     "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/dress_r_g"
       },
-           {
-        "image": "https://via.placeholder.com/150",
+      {
+        "image": "Вставьте картинку",
         "link": "https://example.com/l_dr"
       }
     ]
   },
- "Shirt.png": {
+  "Shirt.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/r_male"
       },
-               {
-        "image": "https://via.placeholder.com/150",
+      {
+        "image": "Вставьте картинку",
         "link": "https://example.com/sp_po"
       }
     ],
-     "female": [
+    "female": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/w_l_pl"
       }
     ]
@@ -468,135 +476,135 @@
   "shirt_with_long_sleeves.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/r_LmALE"
       }
     ]
   },
- "Short-sleeve_shirt.png": {
+  "Short-sleeve_shirt.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/r_k_male"
       },
-           {
-        "image": "https://via.placeholder.com/150",
+      {
+        "image": "Вставьте картинку",
         "link": "https://example.com/pliajny"
       }
     ]
   },
- "Ski_Jacket.png": {
+  "Ski_Jacket.png": {
     "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/p_gor_m"
       },
-               {
-        "image": "https://via.placeholder.com/150",
+      {
+        "image": "Вставьте картинку",
         "link": "https://example.com/s_gorm"
       }
     ]
   },
   "Sports_Winter_Jacket.png": {
- "male": [
+    "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/kj_i"
       }
     ]
   },
- "Striped_Track_Jacket.png": {
-     "male": [
+  "Striped_Track_Jacket.png": {
+    "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/trikotajm"
       }
     ]
   },
-"Sweater.png": {
-     "male": [
+  "Sweater.png": {
+    "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/sviterokm"
       }
     ]
   },
-"T-shirt.png": {
-     "male": [
+  "T-shirt.png": {
+    "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/t_male"
       }
     ]
   },
-    "Thick_Down_Jacket.png": {
- "male": [
+  "Thick_Down_Jacket.png": {
+    "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/tum_zim"
       }
     ]
   },
   "Thick_Down_Jacket20.png": {
-  "male": [
+    "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/tum_zim_2"
       }
     ]
   },
- "Turtleneck.png": {
-     "male": [
+  "Turtleneck.png": {
+    "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/vololaska_Male"
       }
     ]
   },
   "Undershirt.png": {
-      "male": [
+    "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/maika_m_zim"
       }
     ]
   },
- "Windbreaker.png": {
-      "male": [
+  "Windbreaker.png": {
+    "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/re_ver"
       }
     ]
   },
- "Windproof_Hooded_Jacket.png": {
-      "male": [
+  "Windproof_Hooded_Jacket.png": {
+    "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/tetro2_m"
       }
     ]
   },
   "Quilted_Jacket25.png": {
-        "male": [
+    "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/kji_m_zkm"
       }
     ]
   },
- "Undershirt35.png": {
-  "male": [
+  "Undershirt35.png": {
+    "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/mai_jare"
       }
     ]
   },
   "Loose_Shirt35.png": {
-      "male": [
+    "male": [
       {
-        "image": "https://via.placeholder.com/150",
+        "image": "Вставьте картинку",
         "link": "https://example.com/kaft_solar_good"
       }
     ]

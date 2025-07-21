@@ -2,79 +2,38 @@
   "Anorak.png": {
     "male": [
       {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "image": "https://cdn.sportmaster.ru/upload/mdm/media_content/resize/d04/1200_630_a9eb/141576730299.jpg",
+        "link": "https://www.sportmaster.ru/product/29952310299/",
+        "name_ru": "Анорак мужской Geotech",
+        "price": "6499₽"
+      },
+      {
+        "image": "https://cdn.sportmaster.ru/upload/mdm/media_content/resize/361/1200_630_df18/136492260299.jpg",
+        "link": "https://www.sportmaster.ru/product/32210570299/",
+        "name_ru": "Анорак весенний без подкладки Город Горький",
+        "price": "4910₽"
       }
     ],
     "female": [
       {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "image": "https://cdn.sportmaster.ru/upload/mdm/media_content/resize/e43/1200_630_0d3d/140014750299.jpg",
+        "link": "https://www.sportmaster.ru/product/33474320299/",
+        "name_ru": "Анорак женский XVOYA X2 PROJECT",
+        "price": "18990₽"
       }
     ]
   },
   "Blazer.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ],
-    "female": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
+    "male": [],
+    "female": []
   },
   "Blouse.png": {
     "female": [
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ]
   },
@@ -83,31 +42,16 @@
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ]
   },
@@ -116,20 +60,8 @@
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ]
   },
@@ -138,49 +70,16 @@
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ]
   },
@@ -189,31 +88,16 @@
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ]
   },
@@ -222,31 +106,16 @@
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ]
   },
@@ -255,31 +124,16 @@
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ]
   },
@@ -288,31 +142,16 @@
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ]
   },
@@ -321,20 +160,8 @@
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ]
   },
@@ -343,20 +170,8 @@
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ]
   },
@@ -365,31 +180,16 @@
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ]
   },
@@ -398,31 +198,16 @@
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ]
   },
@@ -431,31 +216,16 @@
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ]
   },
@@ -464,31 +234,16 @@
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ]
   },
@@ -497,20 +252,8 @@
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ]
   },
@@ -519,550 +262,34 @@
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ]
   },
   "Loose_Shirt.png": {
     "male": [
       {
-        "image": "https://cdn.sportmaster.ru/upload/mdm/media_content/resize/81d/563_750_142d/144713190299.jpg",
-        "link": "https://www.sportmaster.ru/product/32598170299/",
-        "name_en": "Product Name (English)",
-        "name_ru": "Рубашка мужская Northland",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "https://cdn.sportmaster.ru/upload/mdm/media_content/resize/551/563_750_8e38/156894150299.jpg",
-        "link": "https://www.sportmaster.ru/product/33566590299/",
-        "name_en": "Product Name (English)",
-        "name_ru": "Рубашка мужская Outventure",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ],
-    "female": [
-      {
-        "image": "https://cdn.sportmaster.ru/upload/mdm/media_content/resize/19a/563_750_d2ea/153563790299.jpg",
-        "link": "https://www.sportmaster.ru/product/32596850299/",
-        "name_en": "Product Name (English)",
-        "name_ru": "Рубашка женская Outventure",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Off-the-Shoulder_Top.png": {
-    "female": [
-      {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Oversized_T-shirt.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ],
     "female": [
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Parka.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ],
-    "female": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Pea_Coat.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ],
-    "female": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Polo_shirt.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Quilted_Jacket.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ],
-    "female": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Raincoat.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ],
-    "female": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Sheepskin_Coat.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ],
-    "female": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Shirt_Dress.png": {
-    "female": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Shirt.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара"
-      }
-    ],
-    "female": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "shirt_with_long_sleeves.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Short-sleeve_shirt.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Ski_Jacket.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      },
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Sports_Winter_Jacket.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Striped_Track_Jacket.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Sweater.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "T-shirt.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Thick_Down_Jacket.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Thick_Down_Jacket20.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Turtleneck.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Undershirt.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Windbreaker.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Windproof_Hooded_Jacket.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Quilted_Jacket25.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
-      }
-    ]
-  },
-  "Undershirt35.png": {
-    "male": [
-      {
-        "image": "Ссылка превью",
-        "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
-        "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
       }
     ]
   },
@@ -1071,11 +298,506 @@
       {
         "image": "Ссылка превью",
         "link": "Ссылка товара",
-        "name_en": "Product Name (English)",
         "name_ru": "Название товара (Russian)",
-        "name_de": "Produktname (German)",
-        "name_ja": "製品名 (Japanese)",
-        "name_zh": "产品名称 (Chinese)"
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Off-the-Shoulder_Top.png": {
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Oversized_T-shirt.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Parka.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Pea_Coat.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Polo_shirt.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Quilted_Jacket.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Quilted_Jacket25.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Raincoat.png": {
+    "male": [
+      {
+        "image": "https://cdn.sportmaster.ru/upload/mdm/media_content/resize/d89/1200_630_f12b/67386750299.jpg",
+        "link": "https://www.sportmaster.ru/product/25936820299/",
+        "name_ru": "Дождевик Outventure L-XL, 2022",
+        "price": "1999₽"
+      },
+      {
+        "image": "https://cdn.sportmaster.ru/upload/mdm/media_content/resize/05c/1200_630_8d25/124464440299.jpg",
+        "link": "https://www.sportmaster.ru/product/30185040299/",
+        "name_ru": "Дождевик мужской Toread",
+        "price": "10999₽"
+      },
+      {
+        "image": "https://cdn.sportmaster.ru/upload/mdm/media_content/resize/073/1200_630_77e8/136827060299.jpg",
+        "link": "https://www.sportmaster.ru/product/32312010299/",
+        "name_ru": "Дождевик плащ пончо с капюшоном демисезонный",
+        "price": "13000₽"
+      }
+    ],
+    "female": [
+      {
+        "image": "https://cdn.sportmaster.ru/upload/mdm/media_content/resize/d89/1200_630_f12b/67386750299.jpg",
+        "link": "https://www.sportmaster.ru/product/25936820299/",
+        "name_ru": "Дождевик Outventure L-XL, 2022",
+        "price": "1999₽"
+      },
+      {
+        "image": "https://cdn.sportmaster.ru/upload/mdm/media_content/resize/073/1200_630_77e8/136827060299.jpg",
+        "link": "https://www.sportmaster.ru/product/32312010299/",
+        "name_ru": "Дождевик плащ пончо с капюшоном демисезонный",
+        "price": "13000₽"
+      }
+    ]
+  },
+  "Sheepskin_Coat.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Shirt_Dress.png": {
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Shirt.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "shirt_with_long_sleeves.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Short-sleeve_shirt.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Ski_Jacket.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Sports_Winter_Jacket.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Striped_Track_Jacket.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Sweater.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "T-shirt.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Thick_Down_Jacket.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Thick_Down_Jacket20.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Top.png": {
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Top35.png": {
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Trench_Coat.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Turtleneck.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Undershirt.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Undershirt35.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Windbreaker.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ]
+  },
+  "Windproof_Hooded_Jacket.png": {
+    "male": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
+      }
+    ],
+    "female": [
+      {
+        "image": "Ссылка превью",
+        "link": "Ссылка товара",
+        "name_ru": "Название товара (Russian)",
+        "price": 999
       }
     ]
   }
